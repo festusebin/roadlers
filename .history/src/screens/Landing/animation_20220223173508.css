@@ -1,0 +1,20 @@
+#landing-animation {
+  position: relative;
+  width: 1442px;
+  height: 661px;
+  background: #fff;
+}
+
+#landing-animation .trapezoid-up {
+  clip-path: polygon(0 100%, 100% 50%, 100% 0, 0 50%);
+  background: purple;
+  width: 1442px;
+  height: 661px
+}
+
+#landing-animation .triangle-bottom {
+  /*width: 1442px;
+  height: 661px;
+  border-bottom: 330px solid #000;
+  border-left: 330px solid transparent;*/
+}

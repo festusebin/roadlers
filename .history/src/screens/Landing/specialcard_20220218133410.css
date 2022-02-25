@@ -1,0 +1,7 @@
+.card-container {
+  display: flex;
+}
+
+.card-container .card-list {
+  width: 500px;
+}

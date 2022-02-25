@@ -1,0 +1,20 @@
+.card-container {
+  display: flex;
+}
+
+.card-container .card-list {
+  width: 270px;
+}
+
+.card-container .card-list img {
+  width: 269px;
+  height: 26;
+}
+
+.card-container .card-list h3 {
+  color: #ee9a09;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 33px;
+  letter-spacing: 1.5px;
+}

@@ -1,0 +1,44 @@
+.best-pricing .filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 40px 0px;
+  flex-wrap: wrap;
+}
+
+.best-pricing .filters form {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.best-pricing .filters form input {
+  width: 350px;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  flex: 1 0 300px;
+}
+
+.best-pricing .filters form button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-weight: bold;
+  border-color: #ffa100;
+  background-color: #ffa100;
+}
+
+.best-pricing .filters > button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid white;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: bold;
+  background-color: transparent;
+}

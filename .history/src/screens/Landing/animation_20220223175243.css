@@ -1,0 +1,18 @@
+#landing-animation {
+  position: relative;
+  width: 1442px;
+  height: 661px;
+  background: #242321;
+}
+
+#landing-animation .trapezoid {
+  clip-path: polygon(0 100%, 100% 50%, 100% 0, 0 50%);
+  background: #fff;
+  width: 1442px;
+  height: 661px;
+}
+
+#landing-animation .trapezoid h2 {
+  position: absolute;
+  top: ;
+  }

@@ -1,0 +1,24 @@
+.footer-container {
+  background: #fff;
+}
+
+.footer-container .footer-testimonial {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4rem 10%;
+}
+
+.footer-container .footer-testimonial .footer-logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.footer-container .footer-testimonial .footer-logo p {
+  color: #797979;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30pcx;
+}

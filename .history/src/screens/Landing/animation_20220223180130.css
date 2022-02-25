@@ -1,0 +1,32 @@
+#landing-animation {
+  position: relative;
+  width: 1442px;
+  height: 661px;
+  background: purple;
+  color: #fff;
+}
+
+/*#landing-animation .trapezoid {
+  clip-path: polygon(0 100%, 100% 50%, 100% 0, 0 50%);
+  background: #fff;
+  width: 1442px;
+  height: 661px;
+  color: #fff;
+  padding: 2rem 10%;
+}*/
+
+#landing-animation h2 {
+  position: absolute;
+width: 203px;
+height: 49px;
+left: 1042px;
+top: 3197px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+letter-spacing: 1.5px;
+}

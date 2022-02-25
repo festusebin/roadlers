@@ -1,0 +1,44 @@
+.related-container {
+  margin-top: 400px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.related-container h2 {
+  font-size: 30px;
+  line-height: 41px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.related-container .related-line {
+  border-bottom: 1px solid #fffefe;
+  width: 213.01px;
+  padding-top: 12px;
+}
+
+.related-container .card-services-container {
+  border: 1px solid #ee9a09;
+  border-radius: 16px;
+  width: 236px;
+  height: 286px;
+  margin-top: 56px;
+  margin-bottom: 56px;
+  margin-right: 40px;
+}
+
+.related-container .card-services-container .card-services {
+  width: 162px;
+  height: 100px;
+  background: #fff;
+  border: 1px solid #c4c4c4;
+  border-radius: 16px;
+  margin-top: 32px;
+  margin-right: 37px;
+  margin-left: 37px;
+}
+
+.related-container .card-services-container p {
+  font-size: 14px;
+  line-height: ;
+}

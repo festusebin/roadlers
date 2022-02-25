@@ -1,0 +1,11 @@
+.money-container {
+  padding: 100px 18%;
+}
+
+.money-container h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,12 @@
+.pagination-container {
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination p {
+  background: rgba(196, green, blue, alpha);
+}

@@ -1,0 +1,41 @@
+.card-container {
+  margin: 1rem 15%;
+}
+
+.card-container .card-wrapper {
+  width: 50%;
+}
+
+.card-container .card-wrapper .card-section {
+  /*background: url(../../assets/images/daily-driver.png) no-repeat center;*/
+  border-radius: 20px;
+}
+
+.card-container .card-wrapper .card-sectiond .driver img {
+  width: 423px;
+  height: 369px;
+
+}
+
+.card-container .card-section .like {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 285px;
+  left: 220px;
+}
+
+.card-container .card-section .share {
+  width: 26px;
+  height: 27px;
+  position: absolute;
+  top: 610px;
+  left: 590px;
+}
+
+.card-container .card-section button {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 1.;
+}

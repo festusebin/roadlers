@@ -1,0 +1,14 @@
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.card-success {
+  width: 645px;
+  height: 854px;
+  background: #fff;
+  border-radius: 20px;
+  text-align: center;
+  margin: 50px auto;
+}

@@ -1,0 +1,16 @@
+.pagination-container {
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination p {
+  background: rgba(196, 196, 196, 0.02);
+  border: 1px solid #ebaf4a;
+  border-radius: 8px;
+  font-size: 20px;
+  padd
+}

@@ -1,0 +1,18 @@
+import NavBarHome from '../../components/NavBarHome';
+
+
+import './dashboard.css'
+
+const Dashboard = () => {
+  return (
+      <div className="home">
+          <NavBarHome />
+          <Intro />
+          <Services />
+          <BestPricing />
+      </div>
+  )
+};
+
+export default Dashboard;
+

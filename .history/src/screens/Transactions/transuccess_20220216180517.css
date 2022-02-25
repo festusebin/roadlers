@@ -1,0 +1,18 @@
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 48px;
+  line-height: 65px;
+  letter-spacing: 1.5px;
+  color: #fff;
+  
+}
+
+.card-success {
+  width: 645px;
+  height: 854px;
+  background: #fff;
+  border-radius: 20px;
+  text-align: center;
+  margin: 50px auto;
+}

@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,700,900,600,800");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "N",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #242321;
+  color: white;
+  font-size: 18px;
+}

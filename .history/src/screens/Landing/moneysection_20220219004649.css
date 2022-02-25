@@ -1,0 +1,52 @@
+.money-container {
+  margin: 10rem 18%;
+}
+
+.money-container h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: 1px;
+}
+
+.money-container .money-line {
+  border-bottom: 2px solid #ee9a09;
+  width: 213.01px;
+  padding-top: 15px;
+}
+
+.money-container .moneysection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 70px 15%;
+}
+
+.money-container .moneysection img {
+  width: 103px;
+  height: 100px;
+  border-radius: 8px;
+}
+
+.money-container .moneysection .driver-section {
+  width: 505px;
+}
+.money-container .moneysection .driver-section h1 {
+  font-style: normal;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  color: #ee9a09;
+  padding-bottom: 8px;
+}
+
+.money-container .moneysection .driver-section p {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 35px;
+  text-align: justify;
+  letter-spacing: 0.5px;
+}

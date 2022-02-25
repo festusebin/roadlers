@@ -1,0 +1,114 @@
+.card-container {
+  margin: 1rem 15%;
+}
+
+.card-container .card-wrapper {
+  width: 50%;
+}
+
+.card-container .card-wrapper .card-section {
+  /*background: url(../../assets/images/daily-driver.png) no-repeat center;*/
+  border-radius: 20px;
+  padding-bottom: 32px;
+}
+
+.card-container .card-wrapper .card-section .driver img {
+  width: 423px;
+  height: 369px;
+
+}
+
+.card-container .card-section .like {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 285px;
+  left: 220px;
+}
+
+.card-container .card-section .share {
+  width: 26px;
+  height: 27px;
+  position: absolute;
+  top: 610px;
+  left: 590px;
+}
+
+.card-container .card-section button {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 1.5px;
+  color: #000;
+  background: #ee9a09;
+  padding: 7px 36px;
+  border-radius: 0px 16px 16px 0px;
+  position: absolute;
+  border: none;
+  top: 560px;
+  left: 215px;
+}
+.card-container .card-text {
+  width: 425px;
+  height: 229px;
+  background: #fcf8f8;
+  border: 1px solid #000;
+  border-radius: 16px;
+}
+
+.card-container .card-text h2 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 1.5px;
+  color: #000;
+  padding-top: 33px;
+}
+
+.card-container .card-text-line {
+  border: 1px solid #000;
+  width: 182px;
+  margin-top: 6px;
+}
+
+.card-container .card-text {
+  padding-left: 25px;
+}
+
+.card-container .card-text .card-location {
+  display: flex;
+  color: #000;
+}
+
+.card-container .card-text .card-location img {
+  width: 21px;
+  height: 20px;
+  padding-top: 5px;
+} 
+
+.card-container .card-text .card-location span {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 1px;
+} 
+.card-container .card-text p {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: #000;
+  width: 362px;
+  height: 54px;
+  padding-top: 8px;
+} 
+
+.card-container .card-text .card-review {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2rem 0;
+  margin-right: 44px;
+}
+
+.card-container .card-text 

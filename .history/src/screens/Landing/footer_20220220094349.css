@@ -1,0 +1,10 @@
+.footer-container {
+  margin: 4rem 10%;
+}
+
+
+.footer-container .footer-testimonial {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

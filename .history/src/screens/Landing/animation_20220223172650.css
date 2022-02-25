@@ -1,0 +1,18 @@
+#landing-animation {
+  position: relative;
+  width: 1442px;
+  height: 661px;
+  background: #fff;
+}
+
+#landing-animation .trapezoid-up {
+
+}
+
+#landing-animation .triangle-bottom {
+  width: 1442px;
+  height: 661px;
+  border-bottom: 330px solid #000;
+  border-left: 330px solid transparent;
+  border-right: 330px solid transparent;
+}

@@ -1,0 +1,51 @@
+.home .filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 40px 0px;
+  flex-wrap: wrap;
+}
+
+.home .filters form {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.home .filters form input {
+  width: 350px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid white;
+  background-color: #222;
+  outline: none;
+  color:#fff;
+  flex: 1 0 300px;
+}
+
+.home .filters form button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-weight: bold;
+  border-color: #ffa100;
+  background-color: #ffa100;
+}
+
+.home .filters > button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid white;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.home .filters button {
+  display: flex;
+  align-items: ;
+}

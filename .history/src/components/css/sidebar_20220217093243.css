@@ -1,0 +1,14 @@
+.sidebar {
+
+}
+.line-top {
+  border: 1px solid #c4c4c4;
+  width: 1400px;
+}
+
+.leftbar ul {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  width: 3;
+}

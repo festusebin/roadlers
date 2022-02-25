@@ -1,0 +1,20 @@
+.related-container {
+  margin-top: 400px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.related-container h2 {
+  font-size: 30px;
+  line-height: 41px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.related-container .related-line {
+  border-bottom: 1px solid #fffefe;
+  width: 213.01px;
+  padding-top: 12px;
+}
+
+

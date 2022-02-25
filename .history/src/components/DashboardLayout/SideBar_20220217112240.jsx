@@ -1,0 +1,28 @@
+import React from 'react';
+
+import UserProfile from '../../assets/images/profile.png';
+import Wallet from '../../assets/images/wallet.png';
+import Bookings from '../../assets/images/bookings.png';
+import Referrals from '../../assets/images/refeerals.png';
+import Offers from '../../assets/images/offers.png';
+import TransactionHistory from '../../assets/images/history.png';
+import Notification from '../../assets/images/notification.png';
+
+import '../css/sidebar.css';
+
+const SideBar = () => {
+  return (
+    <div>
+      <div className="sidebar">
+        <div className="line-top"></div>
+        {/*<div className="line-side"></div>*/}
+          <div className="leftbar">
+              
+        </div>
+      </div>
+    </div>
+  );
+};
+
+
+export default SideBar;

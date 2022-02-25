@@ -1,0 +1,10 @@
+.DropdownButton {
+  display: flex;
+  color: #fff;
+  background-color: #000;
+  width: 202px;
+}
+
+.noselect {
+  -webkit-touch-callout: none
+}

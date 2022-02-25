@@ -1,0 +1,32 @@
+.sidebar {
+
+}
+.line-top {
+  border-top: 1px solid #c4c4c4;
+}
+
+.line-side {
+  border-right: 1px solid #fff;
+}
+
+.leftbar- 
+
+.leftbar ul {
+  margin: 50px 4%;
+  width: 300px;
+  border-right: 1px solid #c4c4c4;
+}
+
+.leftbar ul li {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.leftbar .leftbar-img {
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,13 @@
+#landing-animation {
+  position: relative;
+  width: 1442px;
+  height: 661px;
+  background: #fff;
+}
+
+#landing-animation .triangle-bottom {
+  width: 0;
+  height: 0;
+  border-bottom: 100px solid #000;
+  border-left: 330px solid transparent;
+}

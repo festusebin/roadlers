@@ -1,0 +1,10 @@
+.pagination-container {
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination p 

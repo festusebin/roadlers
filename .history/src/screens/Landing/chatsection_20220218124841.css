@@ -1,0 +1,9 @@
+.chat-container {
+  background: url(../../assets/images/8\ 1.png) no-repeat center rgba(0, green, 00, alpha);
+}
+
+.chat-section {
+  display: flex;
+  //background-color: #fff;
+  height: 588px;
+}

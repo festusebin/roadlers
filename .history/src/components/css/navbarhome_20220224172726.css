@@ -1,0 +1,101 @@
+.nav-home {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  height: 100px;
+  padding: 0px 5%;
+  position: relative;
+}
+
+.nav-home a {
+  text-decoration: none;
+  color: #797979;
+}
+
+/* .nav-home > a {
+  margin-left: 20px;
+} */
+
+.nav-home a img {
+  height: 120%;
+}
+
+.nav-home ul {
+  margin: 0px 5%;
+}
+
+.nav-home ul li {
+  display: inline-block;
+  padding: 15px;
+}
+
+.nav-home [class$="btn"] {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 0 15px;
+}
+
+.nav-home .login {
+  border: 1px solid #797979;
+  color: #797979;
+  background-color: #fff;
+  padding: 7px 20px;
+  border-radius: 8px;
+  margin-left: 30px;
+}
+
+.nav-home .sign-up {
+  color: #fff;
+  background-color: #000;
+  padding: 7px 20px;
+  border-radius: 8px;
+  border: 1px solid #000;
+  margin-left: 20px;
+}
+
+.nav-home #menu {
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  display: none;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .nav-home ul {
+    display: none;
+  }
+
+  .nav-home #menu {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  .nav-home .login {
+    margin-left: auto;
+  }
+
+  .nav-home [class$="btn"] {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .nav-home button:not([class$="btn"]) {
+    display: none;
+  }
+
+  .nav-home #menu {
+    margin-left: auto;
+    position: relative;
+    display: inline-block;
+  }
+  .nav-home ul li {
+    display: none;
+    position: absolute;
+    background: #f9f9f
+  }
+}

@@ -1,0 +1,44 @@
+.sidebar {
+
+}
+.line-top {
+  border-top: 1px solid #c4c4c4;
+}
+
+.line-side {
+}
+
+.leftbar {
+  padding-top: 80px;
+  padding-bottom: 100vh;
+  margin: 0 4%;
+  max-width: 300px;
+  border-right: 1px solid #c4c4c4;
+}
+
+.leftbar p {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.leftbar .leftbar-img {
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftbar img {
+  width: 64px;
+  height: 50px;
+}
+
+.rightbar {
+  position: absolute;
+  top: 32.98%;
+  left: 31.19%;
+  margin: 0 4%;
+}

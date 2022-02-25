@@ -1,0 +1,62 @@
+.home #card-group {
+  display: flex;
+  width: 1018px;
+  height: 409px;
+  border: 1px solid #fff;
+  border-radius: 16px;
+  margin: 50px auto;
+}
+
+.home .card-name {
+  width: 230px;
+  margin: 32px 40px;
+}
+
+.home .card-details {
+  width: 270px;
+  margin: 32px 40px;
+}
+
+.home .card-price {
+  width: 230px;
+  margin: 32px 40px;
+}
+
+.home .card-total {
+  width: 230px;
+  margin: 32px 40px;
+}
+
+.home .card-name h2 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  padding-bottom: 16px;
+}
+
+.card-line {
+  border: 0.5px solid #fff;
+  width: 182px;
+}
+
+p {
+  display: flex;
+  align-items: center;
+  padding-top: 16px;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  padding-bottom: 16px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+
+.card-location {
+  padding-right: 6px;
+}
+
+.home .card-details h2 {
+  font-family: 'Nunit';
+}

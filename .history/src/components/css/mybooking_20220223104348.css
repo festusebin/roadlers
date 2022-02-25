@@ -1,0 +1,28 @@
+.booking-container {
+  background: #ffffff;
+}
+
+.booking-container .booking-testimonial {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 10%;
+  height: 102px;
+}
+
+.booking-container .booking-testimonial .booking-logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.booking-container .booking-testimonial .booking-logo p {
+  color: #797979;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  margin-left: 24px;
+}
+

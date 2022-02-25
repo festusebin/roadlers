@@ -1,0 +1,21 @@
+.card-container {
+  margin: 1rem 15%;
+}
+
+.card-container .card-wrapper {
+  width: 50%;
+}
+
+.card-container .card-wrapper .card-section {
+  /*background: url(../../assets/images/daily-driver.png) no-repeat center;*/
+  width: 423px;
+  height: 369px;
+  border-radius: 20px;
+}
+
+.card-container .card-section .like {
+  width: 65px;
+  height: 65px;
+  position: relative;
+  top: 80px;
+}

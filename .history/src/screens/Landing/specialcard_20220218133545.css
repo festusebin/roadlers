@@ -1,0 +1,11 @@
+.card-container {
+  display: flex;
+}
+
+.card-container .card-list {
+  width: 270px;
+}
+
+.card-container .card-list h1 {
+  color: #ee9a09;
+}

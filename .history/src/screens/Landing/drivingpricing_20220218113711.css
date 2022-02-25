@@ -1,0 +1,112 @@
+/* ### driver Pricing */
+.driver-pricing {
+  padding: 50px 4%;
+  text-align: center;
+}
+
+.driver-pricing :is(.parent) {
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.driver-pricing .parent > * {
+  padding: 8px 20px;
+  cursor: pointer;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.driver-pricing .parent .active {
+  border-color: #ffa100;
+  background-color: #ffa100;
+  color: black;
+}
+
+.driver-pricing .filters > button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid white;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+/*.driver-pricing .panels > * .list img {
+  width: 319px;
+  height: 224px;
+}
+
+.driver-pricing .panels > * .list .card figure {
+  padding-right: 6px;
+}*/
+
+.driver-pricing .panels > * .list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 250px);
+  justify-content: center;
+  gap: 90px;
+  padding: 0px 5%;
+}
+
+.driver-pricing .panels > * .list .card {
+  width: 319px;
+  height: 551px;
+  background-color: rgba(0, 0, 0, 0.07);
+  border-radius: 16px;
+  border: 1px solid #ebaf4a;
+  text-align: left;
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.driver-pricing .panels > * .list .bg {
+  margin-bottom: 100px;
+  z-index: 1000;
+}
+
+.driver-pricing .panels > * .list .card .name {
+  font-size: 18px;
+  color: #ffa100;
+  text-align: ;
+}
+
+.driver-pricing .panels > * .list .card .details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 30px;
+  width: 100%;
+}
+
+.driver-pricing .panels > * .list .card .bottom {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 0px;
+}
+
+.driver-pricing .panels > * .list .card .bottom button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.driver-pricing .panels > * .list .card .bottom button:first-child {
+  padding: 3px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid #242321;
+  background-color: #fff;
+}
+
+.driver-pricing .panels > * .list .card .bottom button img {
+  width: 25px;
+}

@@ -1,0 +1,48 @@
+#landing-animation {
+  position: relative;
+  width: 1442px;
+  height: 661px;
+  background: purple;
+}
+
+#landing-animation .trapezoid {
+  clip-path: polygon(0 100%, 100% 50%, 100% 0, 0 50%);
+  background: #fff;
+  width: 1442px;
+  height: 661px;
+  color: #000;
+  padding: 2rem 10%;
+  text-align: c;
+}
+
+#landing-animation .trapezoid h2 {
+  position: relative;
+  left: 400px;
+  top: 100px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: center;
+  letter-spacing: 1.5px;
+}
+
+#landing-animation .trapezoid h3 {
+  position: relative;
+  left: 400px;
+  top: 100px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  margin-bottom: 10px;
+}
+
+#landing-animation .trapezoid .chicken {
+  position: relative;
+  left: 910px;
+  top: 100px;
+}

@@ -1,0 +1,102 @@
+.footer-container {
+  background: #ffffff;
+  height: 124px;
+}
+
+.footer-container .footer-testimonial {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4rem 10%;
+}
+
+.footer-container .footer-testimonial .footer-logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.footer-container .footer-testimonial .footer-logo p {
+  color: #797979;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  margin-left: 24px;
+}
+
+.footer-container .footer-main {
+  margin: 2rem 10%;
+  display: flex;
+}
+
+.footer-container .footer-main .footer-column1 {
+  width: 400px;
+}
+
+.footer-container .footer-main .footer-column1 h2 {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: 1.5px;
+}
+
+.footer-container .footer-main .footer-column1 p {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  padding-top: 14px;
+  padding-bottom: 38px;
+}
+
+.footer-container .footer-main .footer-column1 .footer-visit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-container .footer-main .footer-column1 .footer-visit span {
+  margin-left: 6px;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+}
+
+.footer-container .footer-main .footer-column1 .phone {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding-top: 16px;
+}
+
+
+.footer-container .footer-main .footer-column1 .phone .footer-call small {
+  display: block;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  font-weight: normal;
+}
+
+.footer-container .footer-main .fooetr-column2 {
+ 
+}
+
+.footer-container .footer-header {
+  height: 114px;
+  background: #000;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  padding: 42px 0;
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and 

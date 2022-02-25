@@ -1,0 +1,9 @@
+.landing-animation {
+  width: 1442px;
+  height: 661px;
+  background: #fff;
+}
+
+.landing-animation .triangle-bottom {
+  width: 0;
+}
